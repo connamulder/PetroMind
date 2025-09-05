@@ -1,2 +1,2 @@
 # PetraMind
-Rock
+This is the source codes for PetroMind.
