@@ -10,8 +10,25 @@ This is the official repository for paper **"PetroMind: A multimodal petrographi
 
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
-## 3. Stage of few-shot learning
-In the stage of the few-shot learning, the Pytorch-GPU (1.9.1) was used as the development framework. 
+## Preparation
+Create a virtual environment and install the required libraries.
+```shell
+pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
+```
+
+## Running the code
+
+### 1. PetroMind Instruction Fine-tuning
+Execute the PetroMind instruction fine-tuning script.
+```shell
+01_train_two_stage.sh
+```
+
+### 2. CNNs Training on the Rocks-13
+Execute the CNNs training script for the Rocks-13 dataset.
+```shell
+02_rocks13_cnn.sh
+```
 
 
 ```bash
