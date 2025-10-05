@@ -4,6 +4,7 @@
 <strong>Author: Zhongliang Chen, Chaojie Zheng, Mingming Zhang, Zhaoqi Hu, Jianchao Duan</strong>
   
 <strong>Geological Survey of Anhui Province (Anhui Institute of Geological Sciences)</strong>
+
 <strong>School of Resources and Environment Engineering, Hefei University of Technology</strong>
 </div>
 
