@@ -1,9 +1,10 @@
 # PetroMind: A multimodal petrographic model for rock image classification and lithological description generation
 
 <div align="center">
-<strong>Author: Zhongliang Chen, Chaojie Zheng, Zhaoqi Hu, Jianchao Duan</strong>
+<strong>Author: Zhongliang Chen, Chaojie Zheng, Mingming Zhang, Zhaoqi Hu, Jianchao Duan</strong>
   
 <strong>Geological Survey of Anhui Province (Anhui Institute of Geological Sciences)</strong>
+<strong>School of Resources and Environment Engineering, Hefei University of Technology</strong>
 </div>
 
 This is the official repository for paper **"PetroMind: A multimodal petrographic model for rock image classification and lithological description generation"**. [[paper](https://)]
